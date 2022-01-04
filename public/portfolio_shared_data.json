@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Joshua Haddock",
+      "titles": [ "Software Engineer | Writer | Tech Professional" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/joshhaddock88",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/joshuahaddock/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
