@@ -1,3 +1,3 @@
-# Modify this portfolio
+# My Live Portfolio
 
-Make it your own! 
+Follow this [link](https://joshua-haddock.netlify.app/) to my portfolio!
