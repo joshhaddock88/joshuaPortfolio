@@ -21,7 +21,7 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-unity-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           },
           {
@@ -32,8 +32,8 @@
       },
       {
         "title": "Where 2 Go Now",
-        "startDate": "2020",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "startDate": "2021",
+        "description": "A website with login and authorization where users can search for and save activities to lists based on date and location; users are then able to remove items from their saved lists.",
         "images": [
           "images/portfolio/where2GoNow/p1.jpg",
           "images/portfolio/where2GoNow/p2.png"
@@ -55,26 +55,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Bot-Builders",
+        "startDate": "2021",
+        "description": "A scalable help ticket system for Discord servers that responds to users over instant messaging, collects ticket information, and stores that data via an API.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/bot-builders/bb1.jpg",
+          "images/portfolio/bot-builders/bb2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "ASP.NET"
           }
         ]
       }
