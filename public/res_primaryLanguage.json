@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "My Story",
-      "description": "By early 2020 I'd spent years working at and running some of the best restaurants and bars in Seattle, and while parts of me loved the F&B industry I knew I wanted a change but wasn't sure how to transition my career. Suddenly in March of that year every bar and restaurant closed it's doors and I had all the free time in the world to sit and think about exactly what I wanted.\n While trying to work out what my big move would be I remembered a conversation I had had with a regular when I was tending bar. I mentioned that I was in awe of the things he did but I could never do them, my brain just didn't work like that. He told me I was wrong, my brain could work like that if I wanted it to, I just had to put in the time and have enough grit to keep trying. \nSo I put him to the test and took a coding class online. I found that after just a few classes that I was obsessing over my code, and that every time I was able to write a functional algorithm I would get a little jolt of adrenaline and excitement. The more I studied, the more I got interested in the nitty gritty of how things worked and I kept finding myself going down these endless rabbit holes which was overwhelming but also empowering, and somewhere down in one of those rabbit holes, after I wrote my first few functional applications, I knew that this was what I wanted to do, and I went all in. In early 2021 I enrolled in an accelerated software development program at Code Fellows, and in September of 2021 I graduated with a countless new tools, frameworks, and languages I can now use to build the kinds of applications I only used to dream about.",
+      "description": "By early 2020 I'd spent years working at and running some of the best restaurants and bars in Seattle, and while parts of me loved the F&B industry I knew I wanted a change but wasn't sure how to transition my career. Suddenly in March of that year every bar and restaurant closed it's doors and I had all the free time in the world to sit and think about exactly what I wanted.\n While trying to work out what my big move would be I remembered a conversation I had had with a regular when I was tending bar. I mentioned that I was in awe of the things he did but I could never do them, my brain just didn't work like that. He told me I was wrong, my brain could work like that if I wanted it to, I just had to put in the time and have enough grit to keep trying. So I put him to the test and took a coding class online. I found that after just a few classes that I was obsessing over my code, and that every time I was able to write a functional algorithm I would get a little jolt of adrenaline and excitement. The more I studied, the more I got interested in the nitty gritty of how things worked and I kept finding myself going down these endless rabbit holes which was overwhelming but also empowering, and somewhere down in one of those rabbit holes, after I wrote my first few functional applications, I knew that this was what I wanted to do, and I went all in. In early 2021 I enrolled in an accelerated software development program at Code Fellows, and in September of 2021 I graduated with a countless new tools, frameworks, and languages I can now use to build the kinds of applications I only used to dream about.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,22 +11,18 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Prototype Hero",
+        "startDate": "2021",
+        "description": "A side-scrolling action role playing game for teens incorporating in-game currency, HUD overlay with resource persistence, dynamic NPC dialogue, and a fully realized combat system.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/prototype-Hero/prototype-Hero.jpg",
+          "images/portfolio/prototype-Hero/prototype-Hero2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-unity-plain",
+            "name": "Unity"
           },
           {
             "class": "devicon-csharp-plain",
@@ -35,12 +31,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Where 2 Go Now",
+        "startDate": "2020",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/where2GoNow/p1.jpg",
+          "images/portfolio/where2GoNow/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -51,6 +47,10 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           }
         ]
       },
